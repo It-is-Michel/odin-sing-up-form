@@ -80,6 +80,7 @@ a {
   margin-top: auto;
   margin-bottom: 1rem;
 
+  font-family: sans-serif;
   text-align: center;
 
   --background-opacity: 0.3;
