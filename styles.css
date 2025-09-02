@@ -8,3 +8,8 @@
 .main-wrapper {
   display: flex;
 }
+
+.logo-section {
+  width: 40vw;
+  height: 100vh;
+}
