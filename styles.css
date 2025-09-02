@@ -16,6 +16,11 @@
     font-display: swap;
 }
 
+:root {
+  --color-hsl-black: 237 0% 5%;
+  --color-hsl-white: 237 0% 95%;
+}
+
 * {
   box-sizing: border-box;
 
@@ -31,7 +36,7 @@
   width: 40vw;
   height: 100vh;
 
-  background-image: url("./assets/argentine-chess-champions-league.webp");
+  background-image: url("./assets/chess-league.webp");
   background-repeat: no-repeat;
   background-size: auto 100%;
 
