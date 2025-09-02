@@ -58,3 +58,7 @@
   --background-opacity: 0.3;
   background-color: hsla(var(--color-hsl-black) / var(--background-opacity));
 }
+
+.logotype {
+  font-family: "Copperplate CC";
+}
