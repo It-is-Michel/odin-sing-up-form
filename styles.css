@@ -1,3 +1,21 @@
+@font-face {
+    font-family: 'Copperplate CC';
+    src: url('fonts/CopperplateCC.woff2') format('woff2'),
+        url('fonts/CopperplateCC.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Copperplate CC';
+    src: url('fonts/CopperplateCC.woff2') format('woff2'),
+        url('fonts/CopperplateCC.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
 * {
   box-sizing: border-box;
 
