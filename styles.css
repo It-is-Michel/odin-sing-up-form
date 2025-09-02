@@ -81,4 +81,7 @@ a {
   margin-bottom: 1rem;
 
   text-align: center;
+
+  --background-opacity: 0.3;
+  background-color: hsla(var(--color-hsl-white) / var(--background-opacity));
 }
