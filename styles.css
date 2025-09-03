@@ -65,6 +65,10 @@ a {
   text-decoration: none;
 }
 
+body {
+  background-color: hsl(var(--color-hsl-gray));
+}
+
 .main-wrapper {
   display: flex;
 }
