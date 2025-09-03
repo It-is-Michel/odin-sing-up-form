@@ -47,6 +47,9 @@
   --color-hsl-black: 237 0% 5%;
   --color-hsl-white: 237 0% 95%;
   --color-accent: 324, 71%, 45%;
+
+  --font-family-paragraph: "NanumGothic";
+  --font-family-logotype: "Copperplate CC";
 }
 
 * {
