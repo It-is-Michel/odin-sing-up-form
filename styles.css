@@ -139,7 +139,7 @@ body {
 .form-section__heading {
   font-family: var(--font-family-paragraph);
   
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   margin-left: var(--left-space);
 }
 
