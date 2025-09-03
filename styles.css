@@ -138,3 +138,7 @@ body {
 .sing-up-form__context-text {
   font-family: var(--font-family-paragraph);
 }
+
+.sing-up-form__input-controls {
+  background-color: hsl(var(--color-hsl-white));
+}
