@@ -45,6 +45,7 @@
 
 :root {
   --color-hsl-black: 237 0% 5%;
+  --color-hsl-gray: 95 0% 95%;
   --color-hsl-white: 237 0% 98%;
   --color-accent: 324, 71%, 45%;
 
