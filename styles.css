@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Rubik';
-    src: url('Rubik-LightItalic.woff2') format('woff2'),
-        url('Rubik-LightItalic.woff') format('woff');
+    src: url('fonts/Rubik-LightItalic.woff2') format('woff2'),
+        url('fonts/Rubik-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -48,7 +48,7 @@
   --color-hsl-white: 237 0% 95%;
   --color-accent: 324, 71%, 45%;
 
-  --font-family-paragraph: "NanumGothic";
+  --font-family-paragraph: "Rubik";
   --font-family-legal-text: "NanumGothic";
   --font-family-logotype: "Copperplate CC";
 }
