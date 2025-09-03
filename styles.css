@@ -127,6 +127,8 @@ body {
 /* SING UP FORM */
 
 .sing-up-form {
+  --left-margin: 1.5rem;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -135,7 +137,7 @@ body {
 .sing-up-form__heading {
   font-family: var(--font-family-paragraph);
   margin-bottom: 2rem;
-  margin-left: 1.5rem;
+  margin-left: var(--left-margin);
 }
 
 .sing-up-form__context-text {
