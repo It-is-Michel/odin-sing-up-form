@@ -128,7 +128,6 @@ body {
 
 .form-section {
   --left-space: 1.5rem;
-  --right-space: 1.5rem;
 
   display: flex;
   flex-direction: column;
