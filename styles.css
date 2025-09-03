@@ -117,3 +117,10 @@ a {
   --background-opacity: 0.3;
   background-color: hsla(var(--color-hsl-white) / var(--background-opacity));
 }
+
+/* sing-up-form */
+
+.sing-up-form {
+  display: flex;
+  flex-direction: column;
+}
