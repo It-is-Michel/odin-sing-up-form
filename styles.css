@@ -129,6 +129,7 @@ body {
 .sing-up-form {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .sing-up-form__heading {
