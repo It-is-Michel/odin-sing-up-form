@@ -147,6 +147,7 @@ body {
   font-family: var(--font-family-paragraph);
 
   margin-left: var(--left-space);
+  margin-bottom: 1rem;
 
   width: 50ch;
   line-height: 1.5;
