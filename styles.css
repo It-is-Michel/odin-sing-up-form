@@ -124,7 +124,7 @@ body {
   background-color: hsla(var(--color-hsl-white) / var(--background-opacity));
 }
 
-/* sing-up-form */
+/* SING UP FORM */
 
 .sing-up-form {
   display: flex;
