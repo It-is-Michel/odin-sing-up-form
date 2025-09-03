@@ -138,6 +138,7 @@ body {
 
 .form-section__heading {
   font-family: var(--font-family-paragraph);
+  
   margin-bottom: 2rem;
   margin-left: var(--left-space);
 }
