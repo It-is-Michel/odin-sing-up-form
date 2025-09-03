@@ -124,3 +124,7 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+.sing-up-form__heading {
+  font-family: var(--font-family-paragraph);
+}
