@@ -26,24 +26,6 @@
 }
 
 @font-face {
-    font-family: 'NanumGothicExtraBold';
-    src: url('fonts/NanumGothicExtraBold.woff2') format('woff2'),
-        url('fonts/NanumGothicExtraBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'NanumGothic';
-    src: url('fonts/NanumGothicBold.woff2') format('woff2'),
-        url('fonts/NanumGothicBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
     font-family: 'Rubik';
     src: url('Rubik-LightItalic.woff2') format('woff2'),
         url('Rubik-LightItalic.woff') format('woff');
