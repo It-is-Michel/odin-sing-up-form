@@ -134,6 +134,8 @@ body {
 
 .sing-up-form__heading {
   font-family: var(--font-family-paragraph);
+  margin-bottom: 2rem;
+  margin-left: 1.5rem;
 }
 
 .sing-up-form__context-text {
