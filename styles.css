@@ -112,7 +112,7 @@ a {
   margin-top: auto;
   margin-bottom: 1rem;
 
-  font-family: var(--font-family-paragraph);
+  font-family: var(--font-family-legal-text);
   text-align: center;
 
   --background-opacity: 0.3;
