@@ -127,7 +127,7 @@ body {
 /* Form Section */
 
 .form-section {
-  --left-space: 1.5rem;
+  --left-space: 2.5rem;
 
   flex-grow: 1;
 
