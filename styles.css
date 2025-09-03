@@ -143,6 +143,9 @@ body {
 .form-section__context-text {
   font-family: var(--font-family-paragraph);
   margin-left: var(--left-space);
+
+  width: 50ch;
+  line-height: 1.5;
 }
 
 .sing-up-form {
