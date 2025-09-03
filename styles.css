@@ -142,6 +142,7 @@ body {
 
 .form-section__context-text {
   font-family: var(--font-family-paragraph);
+  margin-left: var(--left-space);
 }
 
 .sing-up-form {
