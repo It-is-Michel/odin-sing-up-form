@@ -154,5 +154,7 @@ body {
 }
 
 .sing-up-form {
+  margin-left: var(--left-space);
+
   background-color: hsl(var(--color-hsl-white));
 }
