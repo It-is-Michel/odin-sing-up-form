@@ -124,9 +124,9 @@ body {
   background-color: hsla(var(--color-hsl-white) / var(--background-opacity));
 }
 
-/* SING UP FORM */
+/* Form Section */
 
-.sing-up-form {
+.form-section {
   --left-space: 1.5rem;
   --right-space: 1.5rem;
 
@@ -135,16 +135,16 @@ body {
   justify-content: center;
 }
 
-.sing-up-form__heading {
+.form-section__heading {
   font-family: var(--font-family-paragraph);
   margin-bottom: 2rem;
   margin-left: var(--left-space);
 }
 
-.sing-up-form__context-text {
+.form-section__context-text {
   font-family: var(--font-family-paragraph);
 }
 
-.sing-up-form__input-controls {
+.sing-up-form {
   background-color: hsl(var(--color-hsl-white));
 }
