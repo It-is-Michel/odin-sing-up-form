@@ -162,6 +162,7 @@ body {
 }
 
 .sing-up-form__heading {
+  margin-top: 1rem;
   margin-bottom: 1rem;
 
   font-family: var(--font-family-paragraph);
