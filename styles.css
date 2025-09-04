@@ -248,3 +248,8 @@ body {
 .sing-up-form__submit-button:hover {
   background-color: hsl(var(--color-hsl-accent-h) var(--color-hsl-accent-s) calc(var(--color-hsl-accent-l) - 5%));
 }
+
+.form-section__login-text {
+  font-family: var(--font-family-paragraph);
+  margin-left: var(--left-space);
+}
