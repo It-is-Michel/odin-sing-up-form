@@ -206,6 +206,8 @@ body {
   outline: 0;
 
   border-color: hsl(221, 100%, 50%);
+
+  box-shadow: hsla(221 100% 0% / 0.3) 0 2px 5px;
 }
 
 .sign-up-form__input-label--required {
