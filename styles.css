@@ -48,6 +48,9 @@
   --color-hsl-gray: 95 0% 95%;
   --color-hsl-white: 237 0% 98%;
   --color-hsl-accent: 324, 71%, 45%;
+  --color-hsl-accent-h: 324;
+  --color-hsl-accent-s: 71%;
+  --color-hsl-accent-l: 45%;
 
   --font-family-paragraph: "Rubik";
   --font-family-legal-text: "NanumGothic";
@@ -219,4 +222,25 @@ body {
 
 .sign-up-form__input:user-invalid {
   border-color: red;
+}
+
+.sing-up-form__submit-button {
+  width: fit-content;
+  height: fit-content;
+
+  margin-left: var(--left-space);
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding: 1.5ch 5ch;
+
+  background-color: hsl(var(--color-hsl-accent));
+
+  border-width: 0;
+  border-radius: 0.5rem;
+
+  box-shadow: hsla(var(--color-hsl-accent-h) var(--color-hsl-accent-s) var(--color-hsl-accent-l) / 0.3) 0 0 5px 2px;
+
+  font-size: 1rem;
+  font-weight: bold;
+  color: hsl(var(--color-hsl-white));
 }
