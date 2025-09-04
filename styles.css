@@ -185,5 +185,7 @@ body {
 }
 
 .sing-up-form__input {
+  width: 28ch;
+
   font-family: var(--font-family-paragraph);
 }
