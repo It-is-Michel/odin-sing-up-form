@@ -172,8 +172,8 @@ body {
 .sign-up-form__name-wrapper,
 .sign-up-form__contact-wrapper,
 .sign-up-form__password-wrapper {
-  width: 70ch;
-  height: 2.8rem;
+  width: 80ch;
+  height: 3.5rem;
 
   margin-top: 1rem;
   margin-bottom: 1rem;
