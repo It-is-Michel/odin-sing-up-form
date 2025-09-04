@@ -171,6 +171,9 @@ body {
 .sing-up-form__name-wrapper,
 .sing-up-form__contact-wrapper,
 .sing-up-form__password-wrapper {
+  width: 70ch;
+  height: 2.4rem;
+
   display: flex;
   flex-direction: column;
 }
