@@ -153,7 +153,7 @@ body {
   line-height: 1.5;
 }
 
-.sing-up-form {
+.sign-up-form {
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: var(--left-space);
@@ -161,7 +161,7 @@ body {
   background-color: hsl(var(--color-hsl-white));
 }
 
-.sing-up-form__heading {
+.sign-up-form__heading {
   margin-top: 1rem;
   margin-bottom: 1rem;
 
@@ -169,9 +169,9 @@ body {
   font-size: 1.3rem;
 }
 
-.sing-up-form__name-wrapper,
-.sing-up-form__contact-wrapper,
-.sing-up-form__password-wrapper {
+.sign-up-form__name-wrapper,
+.sign-up-form__contact-wrapper,
+.sign-up-form__password-wrapper {
   width: 70ch;
   height: 2.8rem;
 
@@ -188,13 +188,13 @@ body {
   font-family: var(--font-family-paragraph);
 }
 
-.sing-up-form__input {
+.sign-up-form__input {
   width: 28ch;
   height: 3ch;
 
   font-family: var(--font-family-paragraph);
 }
 
-.sing-up-form__input-label--required {
+.sign-up-form__input-label--required {
   color: red;
 }
