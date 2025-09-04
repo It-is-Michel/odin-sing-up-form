@@ -210,8 +210,11 @@ body {
   box-shadow: hsla(221 100% 0% / 0.3) 0 2px 5px;
 }
 
-.sign-up-form__input-label--required {
-  color: red;
+.sign-up-form__input-label--required::after {
+  content: "*";
+  color: rgb(45, 45, 45);
+  position: relative;
+  left: 0.3ch;
 }
 
 .sign-up-form__input:user-invalid {
