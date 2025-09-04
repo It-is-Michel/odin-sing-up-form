@@ -193,6 +193,11 @@ body {
   height: 3.5ch;
 
   padding-left: 0.5ch;
+
+  border-width: 1px;
+  border-radius: 0.2rem;
+  border-style: solid;
+
   font-family: var(--font-family-paragraph);
 }
 
