@@ -213,3 +213,7 @@ body {
 .sign-up-form__input-label--required {
   color: red;
 }
+
+.sign-up-form__input:user-invalid {
+  border-color: red;
+}
