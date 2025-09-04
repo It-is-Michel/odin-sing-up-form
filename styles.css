@@ -52,9 +52,9 @@
   --color-hsl-accent-s: 71%;
   --color-hsl-accent-l: 45%;
 
-  --font-family-paragraph: "Rubik";
-  --font-family-legal-text: "NanumGothic";
-  --font-family-logotype: "Copperplate CC";
+  --font-family-paragraph: "Rubik", sans-serif;
+  --font-family-legal-text: "NanumGothic", sans-serif;
+  --font-family-logotype: "Copperplate CC", serif;
 }
 
 * {
