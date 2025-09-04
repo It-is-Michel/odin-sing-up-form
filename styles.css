@@ -192,6 +192,7 @@ body {
   width: 28ch;
   height: 3.5ch;
 
+  padding-left: 0.5ch;
   font-family: var(--font-family-paragraph);
 }
 
