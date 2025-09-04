@@ -176,6 +176,8 @@ body {
 
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 .sign-up-form__input-label {
