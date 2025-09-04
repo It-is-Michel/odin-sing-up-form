@@ -202,6 +202,12 @@ body {
   font-size: 1rem;
 }
 
+.sign-up-form__input:focus {
+  outline: 0;
+
+  border-color: hsl(221, 100%, 50%);
+}
+
 .sign-up-form__input-label--required {
   color: red;
 }
