@@ -183,3 +183,7 @@ body {
 .sign-up-form__input-label {
   font-family: var(--font-family-paragraph);
 }
+
+.sing-up-form__input {
+  font-family: var(--font-family-paragraph);
+}
