@@ -190,7 +190,7 @@ body {
 
 .sign-up-form__input {
   width: 28ch;
-  height: 3ch;
+  height: 3.5ch;
 
   font-family: var(--font-family-paragraph);
 }
