@@ -78,7 +78,7 @@ body {
 
 .logotype-section {
   width: 40vw;
-  height: 100vh;
+  min-height: 100vh;
 
   background-image: url("./assets/chess-league.webp");
   background-repeat: no-repeat;
